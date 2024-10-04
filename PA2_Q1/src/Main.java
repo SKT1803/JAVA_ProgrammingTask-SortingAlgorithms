@@ -1,9 +1,6 @@
 //-----------------------------------------------------
 // Title: Main Class
 // Author: Serdar Kemal Topkaya
-// ID: 71200082370
-// Section: 3
-// Assignment: 2
 // Description: This class read the text file using readFiles methods.
 // Sorts the values from the text file using different sort methods and
 // print results using printArrays methods.
