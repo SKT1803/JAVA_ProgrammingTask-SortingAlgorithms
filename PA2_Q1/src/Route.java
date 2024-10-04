@@ -1,9 +1,6 @@
 //-----------------------------------------------------
 // Title: Route Class
 // Author: Serdar Kemal Topkaya
-// ID: 71200082370
-// Section: 3
-// Assignment: 2
 // Description: In this class, sorting the Route objects with 
 // respect to source and destination by using Comparable interface.
 //-----------------------------------------------------
