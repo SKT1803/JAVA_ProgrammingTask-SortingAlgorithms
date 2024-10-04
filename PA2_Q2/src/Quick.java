@@ -1,9 +1,6 @@
 //-----------------------------------------------------
 // Title: Quick Class
 // Author: Serdar Kemal Topkaya
-// ID: 71200082370
-// Section: 3
-// Assignment: 2
 // Description: This class sorts the arrays, that taken as parameters, using Quick sort.
 //-----------------------------------------------------
 public class Quick {
