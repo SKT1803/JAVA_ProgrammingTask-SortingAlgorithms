@@ -1,3 +1,37 @@
+# Java Sorting Algorithms & Runtime Analysis
+
+This repository contains an extensive Java project that implements, customizes, and benchmarks classic sorting algorithms.  
+It is divided into two major parts: **sorting algorithm implementations** and **experimental runtime analysis**.
+
+---
+
+
+## Experimental Runtime Analysis
+
+Conducts experiments using four sorting algorithms:
+- **Selection Sort**
+- **Insertion Sort**
+- **Merge Sort**
+- **Quick Sort**
+
+### Benchmarking Procedure:
+- Arrays are tested in:
+  - Ascending order
+  - Descending order
+  - Random order
+- Runtimes are measured with:
+  ```java
+  System.currentTimeMillis()
+
+---  
+## How to Run
+Or run SortingAlgorithmTester.java directly to execute benchmarks.<br>
+Ensure that input files (like input.txt, routes.txt, etc.) are located in the project root or passed correctly.
+   ```bash
+    javac *.java
+    java Main
+   ```
+---  
 <h2>Part 1:</h2>
 In this part of the assignment, you are asked to write different sorting algorithms. The goal of the
 task is to exercise the details of sorting algorithms and have hands-on experience with
