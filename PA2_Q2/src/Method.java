@@ -1,6 +1,6 @@
 //-----------------------------------------------------
 // Title: Method Class
-// Author: Serdar Kemal Topkaya
+// Author: SKT
 // Description: In this class, our goal is to sort an array with certain initial values 
 // by selecting any of the 4 different sorting algorithms (Merge, Quick, Selection, Insertion) 
 // After sorting, we print the smallest pairwise absolute difference of this array using the 
