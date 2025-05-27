@@ -1,6 +1,6 @@
 //-----------------------------------------------------
 // Title: Main Class
-// Author: Serdar Kemal Topkaya
+// Author: SKT
 // Description: This class read the text file using readFiles methods.
 // Sorts the values from the text file using different sort methods and
 // print results using printArrays methods.
