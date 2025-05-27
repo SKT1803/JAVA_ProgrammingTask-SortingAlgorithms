@@ -1,6 +1,6 @@
 //-----------------------------------------------------
 // Title: Selection Class
-// Author: Serdar Kemal Topkaya
+// Author: SKT
 // Description: This class sorts the arrays, that taken as parameters, using Selection sort.
 //-----------------------------------------------------
 public class Selection {
