@@ -1,6 +1,6 @@
 //-----------------------------------------------------
 // Title: Route Class
-// Author: Serdar Kemal Topkaya
+// Author: SKT
 // Description: In this class, sorting the Route objects with 
 // respect to source and destination by using Comparable interface.
 //-----------------------------------------------------
