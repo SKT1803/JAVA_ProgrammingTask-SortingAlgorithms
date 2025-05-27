@@ -1,6 +1,6 @@
 //-----------------------------------------------------
 // Title: Quick Class
-// Author: Serdar Kemal Topkaya
+// Author: SKT
 // Description: This class sorts the arrays, that taken as parameters, using Quick sort.
 //-----------------------------------------------------
 
