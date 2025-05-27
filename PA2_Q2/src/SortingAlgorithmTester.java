@@ -1,6 +1,6 @@
 //-----------------------------------------------------
 // Title: SortingAlgorithmTester Class
-// Author: Serdar Kemal Topkaya
+// Author: SKT
 // Description: In this class, we create three arrays of three different types.(Random, increasing, decreasing)
 // After that, we are making experimental run time analysis of these arrays in the four different settings 
 // where in each setting we are going to use different sorting algorithms (Selection, Insertion, Merge, Quick)
